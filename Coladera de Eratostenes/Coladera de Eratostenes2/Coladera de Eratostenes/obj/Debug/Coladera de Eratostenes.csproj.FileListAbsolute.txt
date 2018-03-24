@@ -1,0 +1,10 @@
+C:\Users\ramon\Documents\Estructura de datos\Datos\Coladera de Eratostenes\Coladera de Eratostenes\bin\Debug\Coladera de Eratostenes.exe.config
+C:\Users\ramon\Documents\Estructura de datos\Datos\Coladera de Eratostenes\Coladera de Eratostenes\bin\Debug\Coladera de Eratostenes.exe
+C:\Users\ramon\Documents\Estructura de datos\Datos\Coladera de Eratostenes\Coladera de Eratostenes\bin\Debug\Coladera de Eratostenes.pdb
+C:\Users\ramon\Documents\Estructura de datos\Datos\Coladera de Eratostenes\Coladera de Eratostenes\obj\Debug\Coladera de Eratostenes.csprojResolveAssemblyReference.cache
+C:\Users\ramon\Documents\Estructura de datos\Datos\Coladera de Eratostenes\Coladera de Eratostenes\obj\Debug\Coladera_de_Eratostenes.Form1.resources
+C:\Users\ramon\Documents\Estructura de datos\Datos\Coladera de Eratostenes\Coladera de Eratostenes\obj\Debug\Coladera_de_Eratostenes.Properties.Resources.resources
+C:\Users\ramon\Documents\Estructura de datos\Datos\Coladera de Eratostenes\Coladera de Eratostenes\obj\Debug\Coladera de Eratostenes.csproj.GenerateResource.Cache
+C:\Users\ramon\Documents\Estructura de datos\Datos\Coladera de Eratostenes\Coladera de Eratostenes\obj\Debug\Coladera de Eratostenes.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Estructura de datos\Datos\Coladera de Eratostenes\Coladera de Eratostenes\obj\Debug\Coladera de Eratostenes.exe
+C:\Users\ramon\Documents\Estructura de datos\Datos\Coladera de Eratostenes\Coladera de Eratostenes\obj\Debug\Coladera de Eratostenes.pdb
